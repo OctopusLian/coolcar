@@ -23,5 +23,6 @@ miniprogram_npm
 !**/wx/miniprogram/service/proto_gen/*.js
 
 # my
-/.vscode
-/.history
+.vscode/
+.history/
+.idea/
