@@ -1,9 +1,0 @@
-apiVersion: v1
-kind: Secret
-metadata:
-  name: cos
-type: Opaque
-stringData:
-  url: <URL>
-  secid: <SECID>
-  seckey: <SECKEY>
