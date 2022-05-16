@@ -7,14 +7,11 @@
 * Google设计理念  
 * 敏捷式开发工程化实践  
 * 领域驱动设计前沿理念  
-* Go+Typescript稀缺双语言  
-* 贴合企业级工程化部署：k8s+docker助你上云  
+* Go+Typescript  
+* 企业级工程化部署：k8s+docker  
 
 ## 如何编译以及运行小程序  
 1. `cd wx/miniprogram`  
 2. `npm install`  
 3. 打开小程序开发工具，点击工具->构建npm  
 4. 点击编译  
-
-## 如何编译以及运行小程序后端  
-1.`go mod tidy && go build`  
